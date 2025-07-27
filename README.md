@@ -45,11 +45,11 @@ Il a été réalisé juste après un module universitaire sur les **données sem
 
 > 📌 À insérer manuellement une fois le projet lancé (`frontend/` en dev)
 
-| Connexion | Discussions | Envoi de messages |
+| Connexion | Dashboard | Envoi de messages |
 |----------|-------------|-------------------|
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/Dashboard.png) | ![Message](screenshots/sendingMessage.png) |
 | ![Register](screenshots/register.png) | ![newContact](screenshots/AddContact.png) | ![Message](screenshots/chatGroup.png) |
-| ![Register](screenshots/register.png) | ![newContact](screenshots/AddGroup.png) | ![Message](screenshots/sendingMessage.png) |
+| ![Register](screenshots/sendingMessage.png) | ![newContact](screenshots/AddGroup.png) | ![Message](screenshots/sendingMessage.png) |
 
 ---
 
